@@ -1,0 +1,10 @@
+#our-products-accordion .collapse-title:hover {
+  color: #00bfc7 !important;
+}
+
+.small-description ul li::after,
+.description ul li::after {
+  content: "-";
+}
+
+/*# sourceMappingURL=global.css.map */

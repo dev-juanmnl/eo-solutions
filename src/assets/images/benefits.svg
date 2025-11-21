@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="104px" height="116.25px" viewBox="0 0 104 116.25" enable-background="new 0 0 104 116.25" xml:space="preserve">
+<polygon fill="#1A459C" points="3.625,38.75 34.125,38.75 45.625,56.75 74.125,2.75 99.375,9.5 62.625,77.75 29.875,77.75 "/>
+
+<rect x="10.625" y="91.286" fill="#1A459C" width="81.75" height="20.928"/>
+
+<animateTransform 
+		attributeName="transform"
+          	attributeType="XML" 
+		type="scale" from="0 0" to="1 1"
+         	 begin="0s" dur="2s" 
+		fill="freeze" />
+</svg>

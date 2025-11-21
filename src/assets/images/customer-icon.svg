@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="104px" height="142px" viewBox="0 0 104 142" enable-background="new 0 0 104 142" xml:space="preserve">
+<rect x="14.146" y="13.083" fill="#00BFB3" width="75.667" height="26"/>
+<rect x="14.141" y="51.916" fill="#00BFB3" width="75.667" height="26"/>
+<rect x="63.808" y="77.75" fill="#00BFB3" width="26" height="49.333"/>
+<animateTransform 
+		attributeName="transform"
+          	attributeType="XML" 
+		type="scale" from="0 0" to="1 1"
+         	 begin="0s" dur="2s" 
+		fill="freeze" />
+</svg>
